@@ -6,17 +6,18 @@ SpringBoot + Spring Cloud 云原生开发学习代码
 
 
 ## Modules
--[x] Admin Service
--[x] Eureka 注册中心
--[x] Feign feign消费者
--[x] ribbon ribbon 消费者
--[x] hystix 熔断器
--[x] hystix monitor dashboard 服务熔断监控
--[x] zuul zuul-filter zuul-provider  网关
--[x] config center 配置中心
--[ ] apollo config center 
--[x] 服务追踪
--[x] Spring Boot Admin 服务监控
+
+- [x] Admin Service
+- [x] Eureka 注册中心
+- [x] Feign feign消费者
+- [x] ribbon ribbon 消费者
+- [x] hystix 熔断器
+- [x] hystix monitor dashboard 服务熔断监控
+- [x] zuul zuul-filter zuul-provider  网关
+- [x] config center 配置中心
+- [ ] apollo config center 
+- [x] 服务追踪
+- [x] Spring Boot Admin 服务监控
 
 
 
