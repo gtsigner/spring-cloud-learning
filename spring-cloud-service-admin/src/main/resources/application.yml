@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: spring-cloud-service-config
+server:
+  port: 8764
+
+eureka:
+  #标记客户端，向注册中心注册
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
