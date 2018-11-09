@@ -1,6 +1,6 @@
 spring:
   application:
-    name: hello-spring-cloud-zuul
+    name: spring-cloud-zuul
 
 server:
   port: 8769
